@@ -1,0 +1,24 @@
+{
+  "name": "readmegenerator",
+  "version": "1.0.0",
+  "description": "simple readme generator",
+  "main": "readmeGen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hinrichsad/readmeGenerator.git"
+  },
+  "author": "Andrew Hinrichs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hinrichsad/readmeGenerator/issues"
+  },
+  "homepage": "https://github.com/hinrichsad/readmeGenerator#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^7.3.3",
+    "util": "^0.12.3"
+  }
+}
